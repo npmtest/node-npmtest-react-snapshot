@@ -1,0 +1,22 @@
+<svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="302" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 02:14:38 +0000    25728 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 02:14:38 +0000     1068 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 02:14:38 +0000     5777 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 02:14:38 +0000       44 bytes  bin/react-snapshot.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 02:14:38 +0000     4122 bytes  lib/Crawler.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 02:14:38 +0000     1933 bytes  lib/Server.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 02:14:38 +0000     2040 bytes  lib/Writer.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 02:14:38 +0000     1288 bytes  lib/cli.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 02:14:38 +0000      664 bytes  lib/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 02:14:38 +0000     1080 bytes  lib/snapshot.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 02:14:38 +0000     2829 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 02:14:38 +0000     1731 bytes  src/Crawler.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 02:14:38 +0000      687 bytes  src/Server.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 02:14:38 +0000      721 bytes  src/Writer.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 02:14:38 +0000      686 bytes  src/cli.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 02:14:38 +0000      321 bytes  src/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 02:14:38 +0000      737 bytes  src/snapshot.js</tspan>
+</text>
+</svg>
